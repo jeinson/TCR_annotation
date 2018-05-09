@@ -1,0 +1,6 @@
+# TCR_annotation
+Scripts for G4771 Computational Genomics
+
+These jupyter notebooks are run with an R kernel, and give a snapshot of the work that I did for a course at Columbia, Computational Genomics, Spring 2018
+
+To run, the library `Biostrings` and `tidyerse` are required. Scripts were tested on R version 3.4.2
